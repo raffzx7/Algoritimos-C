@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main() {
+
+    float n1, n2, media;
+
+    printf("insira o primeiro numero:\n");
+    scanf("%f", &num1);
+
+    printf("insira o segundo numero:\n");
+    scanf("%f", &num2);
+
+    media = (um1 + num2) / 2;
+
+    printf("a media dos dois numero é %.2f\n", soma);
+
+    return 0;
+}
