@@ -17,5 +17,5 @@
 			p1=p2;
 			p2=proximotermo;
 	}
-		
+		return 0;
 		}
