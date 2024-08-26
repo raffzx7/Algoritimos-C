@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-
+    
     float n1, n2, media;
 
     printf("insira o primeiro numero:\n");
