@@ -10,6 +10,6 @@ int main() {
     fahrenheit = (n1 * 1.8) + 32;
 
     printf("a convercao de temperatura de celicius para fahrenheit é: %d", fahrenheit);
-
+    
     return 0;
 }
