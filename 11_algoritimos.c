@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 int main(void) {
+
   int n, i, cont = 0;
+
   printf("insira um numero:\n");
   scanf("%d", &n);
 
@@ -16,6 +18,5 @@ int main(void) {
   else{
     printf("numero nao primo");
   }
-
   return 0;
 }
