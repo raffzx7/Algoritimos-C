@@ -9,6 +9,7 @@ void wait ( int seconds )
 }
 
 int main ()
+
 {
   int n;
   printf ("contagem regressiva....\n");
