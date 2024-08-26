@@ -1,10 +1,9 @@
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
 	int main() {
 
-		setlocale(LC_ALL, "Portuguese");
+		setlocale(LC_ALL, "portugues");
 
 		int quantidade, numeros, contador, resultado = 0;
 
@@ -21,4 +20,3 @@
 
 		printf("\nO resultado da soma é %d", resultado);
 }
-
