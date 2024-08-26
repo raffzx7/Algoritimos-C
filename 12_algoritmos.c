@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
+
 	int main() {
 
 		setlocale(LC_ALL, "portugues");
@@ -17,6 +18,6 @@
 
 		resultado += numeros;
 		}
-
 		printf("\nO resultado da soma é %d", resultado);
+		return 0;
 }
